@@ -50,8 +50,7 @@ basicCC <- ggplot(dd2,aes(x=result,y=prcnt*100,fill=Sex))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```  
 
-
-
+After looking at this graph. It clearly shows that men are more affected by this virus than women are. The Majority of the people who are dead are male and the majority of the people alive are female. Showing that this virus killed mostly men.
 
 
   
