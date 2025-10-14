@@ -76,5 +76,5 @@ After looking at the inferential results. There are more total dead males than d
 
 ## Conclusions
 
-
+After using the help file called categorical categorical. It showed that the COVID virus killed men at a higher rate than it did to women. It was killing women at a 1.4% and men at double the rate at 3%. It shows that men who get this virus have a higher chance of dying from it than if a women gets it. The low P-value at 0.0012 and a confidence rate at 95% only proved this more. The graphs showed that 64% of men died from the virus and 36% of women died from it as shown on the graphs.
 
