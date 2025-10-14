@@ -62,6 +62,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+These support what was shown the in the graph part. The percentage of women dying from this virus is 1.4% and for men dying it is 3%. a lite bit more than double of women’s deaths to this virus.
 
 ## Inferential results 
 
@@ -74,4 +75,6 @@ fisher.test(table1)
 After looking at the inferential results. There are more total dead males than dead females. The probability of getting results like this are are very are very low with the P-value of 0.0012. So for a male to catch COVID is not a good thing with the higher chance of dying at 2.3 times greater chance of dying than a female dying.
 
 ## Conclusions
+
+
 
