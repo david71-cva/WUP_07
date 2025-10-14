@@ -65,8 +65,13 @@ colPerc(table1)
 
 ## Inferential results 
 
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
 
-
+After looking at the inferential results. There are more total dead males than dead females. The probability of getting results like this are are very are very low with the P-value of 0.0012. So for a male to catch COVID is not a good thing with the higher chance of dying at 2.3 times greater chance of dying than a female dying.
 
 ## Conclusions
 
